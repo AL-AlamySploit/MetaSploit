@@ -18,3 +18,5 @@ apt install ruby
 apt install wget
 apt install curl
 echo " $A7Y [+] Done..!"
+clear
+sh termux-metasploit.sh
