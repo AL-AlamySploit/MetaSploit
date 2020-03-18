@@ -12,9 +12,11 @@ $ git clone https://github.com/AL-AlamySploit/MetaSploit
 
 $ cd MetaSploit
 
-$ chmod +x termux-metasploit.sh 
 
-$ ./termux-metasploit.sh</span></pre>
+$ chmod +x termux-metasploit.sh
+
+
+$ sh install.sh</span></pre>
 
 # Video explanation
 
