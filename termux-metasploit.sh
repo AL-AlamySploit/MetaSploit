@@ -10,7 +10,8 @@ echo
 echo
 echo "$A7Y[The code By With Metasploit]"
 echo
-printf "${A7Y}[+] witing to Down..  ..\n"
+printf "${A7Y}[+] witing to Down..!  \n"
+apt install curl
 curl -LO https://raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh
 bash metasploit.sh
 cd metasploit-framework
