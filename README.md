@@ -14,7 +14,7 @@ $ cd MetaSploit
 
 $ chmod +x termux-metasploit.sh
 
-$ sh install.sh</span></pre>
+$ sh termux-metasploit.sh</span></pre>
 
 # Video explanation
 
